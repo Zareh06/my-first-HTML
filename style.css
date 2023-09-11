@@ -36,3 +36,8 @@ body{
 .socialTumb{
     float: left;
 }
+
+#mainContainer{
+    width: 850px;
+    margin: 0px auto;
+}
