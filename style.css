@@ -16,6 +16,7 @@ body{
 #introContainer{
     width: 470px;
     float: left;
+    margin: 0px 0px 30px 37px;
 }
 
 #introPicture{
@@ -28,16 +29,27 @@ body{
 #hobbyContainer{
     width: 410px;
     float: left;
+    margin: 0px 0px 0px 0px;
+}
+
+#hobbyContainer h2{
+    margin: 0px;
 }
 #heroshots{
-    float: left;
+    float: right;
+    margin: 0px 0px 0px 0px;
 }
 
 .socialTumb{
     float: left;
+    width: 56;
+    height: 56;
+    background-color: ffffff;
+    text-align: center;
+    margin: 0px 0px 0px 18px;
 }
 
 #mainContainer{
-    width: 850px;
+    width: 1000px;
     margin: 0px auto;
 }
