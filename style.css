@@ -21,6 +21,7 @@ body{
 
 #introPicture{
     float: left;
+    margin: 10px 0px 0px 0px;
 }
 .reset{
     clear: both;
@@ -35,9 +36,9 @@ body{
 #hobbyContainer h2{
     margin: 0px;
 }
-#heroshots{
-    float: right;
-    margin: 0px 0px 0px 0px;
+#heroshot{
+    float: left;
+    margin: -450px 0px 0px 250px;
 }
 
 .socialTumb{
@@ -50,6 +51,55 @@ body{
 }
 
 #mainContainer{
-    width: 1000px;
+    width: 728px;
     margin: 0px auto;
+}
+
+#icon1{
+    margin: 0px 0px 5px 0px;
+    float: left;
+}
+#instagram{
+    float: left;
+    width: 200px;
+    height: 56px;
+    margin-bottom: -200px;
+    margin-top: -80px;
+    margin-left: 120px;
+}
+
+#tiktok{
+    float: left;
+    width: 200px;
+    height: 56px;
+    margin-bottom: -200px;
+    margin-top: -80px;
+    margin-left: 120px;
+}
+
+#pintrest{
+    float: left;
+    width: 200px;
+    height: 56px;
+    margin-bottom: -200px;
+    margin-top: -80px;
+    margin-left: 120px;
+}
+
+#funimg{
+    float: right;
+    margin: -450px -300px 0px 0px;
+}
+#secondpage{
+    height: 20px;
+    margin: 70px 0px 0px 300px;
+}
+#secondpage a{
+    padding: 10px;
+    background: #0000ff;
+    color: aliceblue;
+    border-radius: 4px;
+}
+#secondpage a:hover{
+    background: #dd11a0;
 }
